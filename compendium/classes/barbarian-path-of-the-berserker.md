@@ -7,7 +7,7 @@ tags:
 aliases: ["Path of the Berserker"]
 ---
 # Path of the Berserker
-*[Barbarian](barbarian.md): Primal Path*  
+*[Barbarian](dnd5e-markdown/compendium/classes/barbarian.md): Primal Path*  
 *Source: SRD / Basic Rules*  
 
 

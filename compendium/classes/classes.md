@@ -5,7 +5,7 @@ cssclasses: json5e-note
 # Index of Classes
 
 - [Barbarian: Path of the Berserker](barbarian-path-of-the-berserker.md)
-- [Barbarian](barbarian.md)
+- [Barbarian](dnd5e-markdown/compendium/classes/barbarian.md)
 - [Bard: College of Lore](bard-college-of-lore.md)
 - [Bard](bard.md)
 - [Cleric: Life Domain](cleric-life-domain.md)

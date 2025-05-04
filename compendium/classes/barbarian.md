@@ -1,10 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-class
+cssclasses:
+  - json5e-class
 tags:
-- class/barbarian
-- compendium/src/5e/phb
-aliases: ["Barbarian"]
+  - class/barbarian
+  - compendium/src/5e/phb
+aliases: Barbarian
+dnd_link: "[[dnd5e-markdown/compendium/classes/barbarian|barbarian]]"
+title: Barbarian
+icon: ":luggage:"
+foundryId: Item.Oq26g9FjLXJXfBpf
+Lifestage: 🌱 Seed
 ---
 # Barbarian
 *Source: SRD / Basic Rules*  
@@ -329,3 +335,764 @@ If your DM allows the use of feats, you may instead take a feat.
 ### Primal Champion (Level 20)
 
 At 20th level, you embody the power of the wilds. Your Strength and Constitution scores increase by 4. Your maximum for those scores is now 24.
+
+[[List of Classes]] 
+# Barbarian
+![[icons-skills-melee-hand-grip-sword-orange.webp|150]]
+
+As a barbarian, you gain the following class features.
+
+### Hit Points
+
+**Hit Dice:** 1d12 per barbarian level  
+**Hit Points at 1st Level:** 12 + your Constitution modifier  
+**Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution modifier per barbarian level after 1st
+
+### Proficiencies
+
+**Armor:** Light armor, medium armor, shields  
+**Weapons:** Simple weapons, martial weapons  
+**Tools:** None  
+**Saving Throws:** Strength, Constitution  
+**Skills:** Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival
+
+# Barbarian Advancement
+
+| Level | Proficiency Bonus | Features                                                                                                                                          | Rages     | Rage Damage |
+| ----- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
+| 1st   | +2                | [[Rage]], [[Unarmored Defense]]                                                                                                                   | 2         | +2          |
+| 2nd   | +2                | [[Compendium.dnd5e.classfeatures.Item.SCVjqRdlZ9cvHVSR\|Reckless Attack]], [[Compendium.dnd5e.classfeatures.Item.vt31lWAULygEl7yk\|Danger Sense]] | 2         | +2          |
+| 3rd   | +2                | [[Compendium.dnd5e.classfeatures.Item.TH1QAf6YNGSeBVjT\|Primal Path]]                                                                             | 3         | +2          |
+| 4th   | +2                | [[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5\|Ability Score Improvement]]                                                               | 3         | +2          |
+| 5th   | +3                | [[Compendium.dnd5e.classfeatures.Item.XogoBnFWmCAHXppo\|Extra Attack]], [[Compendium.dnd5e.classfeatures.Item.Kl6zifJ5OmdHlOi2\|Fast Movement]]   | 3         | +2          |
+| 6th   | +3                | Path feature                                                                                                                                      | 4         | +2          |
+| 7th   | +3                | [[Compendium.dnd5e.classfeatures.Item.NlXslw4yAqmKZWtN\|Feral Instinct]]                                                                          | 4         | +2          |
+| 8th   | +3                | [[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5\|Ability Score Improvement]]                                                               | 4         | +2          |
+| 9th   | +4                | [[Compendium.dnd5e.classfeatures.Item.L94gyvNpUhUe0rwh\|Brutal Critical (1 die)]]                                                                 | 4         | +3          |
+| 10th  | +4                | Path feature                                                                                                                                      | 4         | +3          |
+| 11th  | +4                | [[Compendium.dnd5e.classfeatures.Item.FqfmbPgxiyrWzhYk\|Relentless Rage]]                                                                         | 4         | +3          |
+| 12th  | +4                | [[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5\|Ability Score Improvement]]                                                               | 5         | +3          |
+| 13th  | +5                | [[Compendium.dnd5e.classfeatures.Item.L94gyvNpUhUe0rwh\|Brutal Critical (2 dice)]]                                                                | 5         | +3          |
+| 14th  | +5                | Path feature                                                                                                                                      | 5         | +3          |
+| 15th  | +5                | [[Compendium.dnd5e.classfeatures.Item.l8tUhZ5Pecm9wz7I\|Persistent Rage]]                                                                         | 5         | +3          |
+| 16th  | +5                | [[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5\|Ability Score Improvement]]                                                               | 5         | +4          |
+| 17th  | +6                | [[Compendium.dnd5e.classfeatures.Item.L94gyvNpUhUe0rwh\|Brutal Critical (3 dice)]]                                                                | 6         | +4          |
+| 18th  | +6                | [[Compendium.dnd5e.classfeatures.Item.Q1exex5ALteprrPo\|Indomitable Might]]                                                                       | 6         | +4          |
+| 19th  | +6                | [[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5\|Ability Score Improvement]]                                                               | 6         | +4          |
+| 20th  | +6                | [[Compendium.dnd5e.classfeatures.Item.jVU4AgqfrFaqgXns\|Primal Champion]]                                                                         | Unlimited | +4          |
+
+# Primal Paths
+
+[[Compendium.dnd5e.subclasses.Item.uGuDQX9Mz3oHNHkU|Path of the Berserker]]
+
+```Item
+name: Barbarian
+type: class
+img: icons/skills/melee/hand-grip-sword-orange.webp
+system:
+  description:
+    value: >-
+      <p>As a barbarian, you gain the following class features.</p><h3>Hit
+      Points</h3><p><strong>Hit Dice:</strong> 1d12 per barbarian level<br
+      /><strong>Hit Points at 1st Level:</strong> 12 + your Constitution
+      modifier<br /><strong>Hit Points at Higher Levels:</strong> 1d12 (or 7) +
+      your Constitution modifier per barbarian level after
+      1st</p><h3>Proficiencies</h3><p><strong>Armor:</strong> Light armor,
+      medium armor, shields<br /><strong>Weapons:</strong> Simple weapons,
+      martial weapons<br /><strong>Tools:</strong> None<br /><strong>Saving
+      Throws:</strong> Strength, Constitution<br /><strong>Skills:</strong>
+      Choose two from Animal Handling, Athletics, Intimidation, Nature,
+      Perception, and Survival</p><h1>Barbarian Advancement</h1><table
+      border="0"><thead><tr><td>Level</td><td>Proficiency
+      Bonus</td><td>Features</td><td>Rages</td><td>Rage
+      Damage</td></tr></thead><tbody><tr><td>1st</td><td>+2</td><td>[[Compendium.dnd5e.classfeatures.Item.VoR0SUrNX5EJVPIO|Rage]],
+      [[Compendium.dnd5e.classfeatures.Item.SZbsNbaxFFGwBpNK|Unarmored
+      Defense]]</td><td>2</td><td>+2</td></tr><tr><td>2nd</td><td>+2</td><td>[[Compendium.dnd5e.classfeatures.Item.SCVjqRdlZ9cvHVSR|Reckless
+      Attack]],
+      [[Compendium.dnd5e.classfeatures.Item.vt31lWAULygEl7yk|Danger
+      Sense]]</td><td>2</td><td>+2</td></tr><tr><td>3rd</td><td>+2</td><td>[[Compendium.dnd5e.classfeatures.Item.TH1QAf6YNGSeBVjT|Primal
+      Path]]</td><td>3</td><td>+2</td></tr><tr><td>4th</td><td>+2</td><td>[[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5|Ability
+      Score
+      Improvement]]</td><td>3</td><td>+2</td></tr><tr><td>5th</td><td>+3</td><td>[[Compendium.dnd5e.classfeatures.Item.XogoBnFWmCAHXppo|Extra
+      Attack]], [[Compendium.dnd5e.classfeatures.Item.Kl6zifJ5OmdHlOi2|Fast
+      Movement]]</td><td>3</td><td>+2</td></tr><tr><td>6th</td><td>+3</td><td>Path
+      feature</td><td>4</td><td>+2</td></tr><tr><td>7th</td><td>+3</td><td>[[Compendium.dnd5e.classfeatures.Item.NlXslw4yAqmKZWtN|Feral
+      Instinct]]</td><td>4</td><td>+2</td></tr><tr><td>8th</td><td>+3</td><td>[[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5|Ability
+      Score
+      Improvement]]</td><td>4</td><td>+2</td></tr><tr><td>9th</td><td>+4</td><td>[[Compendium.dnd5e.classfeatures.Item.L94gyvNpUhUe0rwh|Brutal
+      Critical (1
+      die)]]</td><td>4</td><td>+3</td></tr><tr><td>10th</td><td>+4</td><td>Path
+      feature</td><td>4</td><td>+3</td></tr><tr><td>11th</td><td>+4</td><td>[[Compendium.dnd5e.classfeatures.Item.FqfmbPgxiyrWzhYk|Relentless
+      Rage]]</td><td>4</td><td>+3</td></tr><tr><td>12th</td><td>+4</td><td>[[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5|Ability
+      Score
+      Improvement]]</td><td>5</td><td>+3</td></tr><tr><td>13th</td><td>+5</td><td>[[Compendium.dnd5e.classfeatures.Item.L94gyvNpUhUe0rwh|Brutal
+      Critical (2
+      dice)]]</td><td>5</td><td>+3</td></tr><tr><td>14th</td><td>+5</td><td>Path
+      feature</td><td>5</td><td>+3</td></tr><tr><td>15th</td><td>+5</td><td>[[Compendium.dnd5e.classfeatures.Item.l8tUhZ5Pecm9wz7I|Persistent
+      Rage]]</td><td>5</td><td>+3</td></tr><tr><td>16th</td><td>+5</td><td>[[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5|Ability
+      Score
+      Improvement]]</td><td>5</td><td>+4</td></tr><tr><td>17th</td><td>+6</td><td>[[Compendium.dnd5e.classfeatures.Item.L94gyvNpUhUe0rwh|Brutal
+      Critical (3
+      dice)]]</td><td>6</td><td>+4</td></tr><tr><td>18th</td><td>+6</td><td>[[Compendium.dnd5e.classfeatures.Item.Q1exex5ALteprrPo|Indomitable
+      Might]]</td><td>6</td><td>+4</td></tr><tr><td>19th</td><td>+6</td><td>[[Compendium.dnd5e.classfeatures.Item.s0Cc2zcX0JzIgam5|Ability
+      Score
+      Improvement]]</td><td>6</td><td>+4</td></tr><tr><td>20th</td><td>+6</td><td>[[Compendium.dnd5e.classfeatures.Item.jVU4AgqfrFaqgXns|Primal
+      Champion]]</td><td>Unlimited</td><td>+4</td></tr></tbody></table><h1>Primal
+      Paths</h1><p>[[Compendium.dnd5e.subclasses.Item.uGuDQX9Mz3oHNHkU|Path
+      of the Berserker]]</p>
+    chat: ''
+  source:
+    custom: ''
+    book: SRD 5.1
+    page: ''
+    license: CC-BY-4.0
+    rules: '2014'
+    revision: 1
+  identifier: barbarian
+  levels: 1
+  advancement:
+    - _id: 5jn0ekktgccyvvpw
+      type: HitPoints
+      configuration: {}
+      value: {}
+      title: ''
+    - _id: fjwU0G5OtTZWOkib
+      type: Trait
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants:
+          - armor:lgt
+          - armor:med
+          - armor:shl
+        choices: []
+      level: 1
+      title: ''
+      classRestriction: primary
+      value:
+        chosen: []
+    - _id: sFas4Tifj7zKgmkY
+      type: Trait
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants:
+          - weapon:sim
+          - weapon:mar
+        choices: []
+      level: 1
+      title: ''
+      value:
+        chosen: []
+    - _id: CmX808i8HaWZ7VMx
+      type: Trait
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants:
+          - saves:str
+          - saves:con
+        choices: []
+      level: 1
+      title: ''
+      classRestriction: primary
+      value:
+        chosen: []
+    - _id: lD3JBViqmxFYu0kc
+      type: Trait
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants: []
+        choices:
+          - count: 2
+            pool:
+              - skills:ani
+              - skills:ath
+              - skills:itm
+              - skills:nat
+              - skills:prc
+              - skills:sur
+      level: 1
+      title: ''
+      classRestriction: primary
+      value:
+        chosen: []
+    - type: Trait
+      configuration:
+        mode: default
+        allowReplacements: false
+        grants:
+          - armor:shl
+        choices: []
+      level: 1
+      title: ''
+      _id: 3ETNrLc8RQlHwNXP
+      classRestriction: secondary
+      value:
+        chosen: []
+    - _id: amez6rlose3eoigo
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.dnd5e.classfeatures.VoR0SUrNX5EJVPIO
+            optional: false
+          - uuid: Compendium.dnd5e.classfeatures.SZbsNbaxFFGwBpNK
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+            requireSlot: false
+      value: {}
+      level: 1
+      title: Features
+    - _id: udl318k61boq0rnn
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.dnd5e.classfeatures.SCVjqRdlZ9cvHVSR
+            optional: false
+          - uuid: Compendium.dnd5e.classfeatures.vt31lWAULygEl7yk
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+            requireSlot: false
+      value: {}
+      level: 2
+      title: Features
+    - _id: 8y2ey740kizr4jb6
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.dnd5e.classfeatures.TH1QAf6YNGSeBVjT
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+            requireSlot: false
+      value: {}
+      level: 3
+      title: Features
+    - _id: uoexdq8totskritb
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.dnd5e.classfeatures.XogoBnFWmCAHXppo
+            optional: false
+          - uuid: Compendium.dnd5e.classfeatures.Kl6zifJ5OmdHlOi2
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+            requireSlot: false
+      value: {}
+      level: 5
+      title: Features
+    - _id: w6ceiqibcmzpcuy8
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.dnd5e.classfeatures.NlXslw4yAqmKZWtN
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+            requireSlot: false
+      value: {}
+      level: 7
+      title: Features
+    - _id: ty9si22p6pfwb3ow
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.dnd5e.classfeatures.L94gyvNpUhUe0rwh
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+            requireSlot: false
+      value: {}
+      level: 9
+      title: Features
+    - _id: 802xi5l50le3ntk8
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.dnd5e.classfeatures.FqfmbPgxiyrWzhYk
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+            requireSlot: false
+      value: {}
+      level: 11
+      title: Features
+    - _id: g9ut0x1ugm31gbhk
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.dnd5e.classfeatures.l8tUhZ5Pecm9wz7I
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+            requireSlot: false
+      value: {}
+      level: 15
+      title: Features
+    - _id: so18afasiyobkpxy
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.dnd5e.classfeatures.Q1exex5ALteprrPo
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+            requireSlot: false
+      value: {}
+      level: 18
+      title: Features
+    - _id: 9hvtrqbg7d7zwg07
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.dnd5e.classfeatures.jVU4AgqfrFaqgXns
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+            requireSlot: false
+      value: {}
+      level: 20
+      title: Features
+    - _id: 62svnflxsuad7oar
+      type: ScaleValue
+      configuration:
+        identifier: rages
+        type: number
+        scale:
+          '1':
+            value: 2
+          '3':
+            value: 3
+          '6':
+            value: 4
+          '12':
+            value: 5
+          '17':
+            value: 6
+          '20':
+            value: 999
+        distance:
+          units: ''
+      value: {}
+      title: Rages
+    - _id: t42incolsbuqn2ec
+      type: ScaleValue
+      configuration:
+        identifier: rage-damage
+        type: number
+        scale:
+          '1':
+            value: 2
+          '9':
+            value: 3
+          '16':
+            value: 4
+        distance:
+          units: ''
+      value: {}
+      title: Rage Damage
+    - _id: y0kr48pnq5doebeb
+      type: ScaleValue
+      configuration:
+        identifier: brutal-critical
+        type: number
+        scale:
+          '9':
+            value: 1
+          '13':
+            value: 2
+          '17':
+            value: 3
+        distance:
+          units: ''
+      value: {}
+      title: Brutal Critical Dice
+    - _id: dZHMy3530RPCjzvD
+      type: AbilityScoreImprovement
+      configuration:
+        points: 2
+        fixed:
+          str: 0
+          dex: 0
+          con: 0
+          int: 0
+          wis: 0
+          cha: 0
+        cap: 2
+        locked: []
+      value:
+        type: asi
+      level: 4
+      title: ''
+    - _id: dBMWU3h8MBO4PcEm
+      type: AbilityScoreImprovement
+      configuration:
+        points: 2
+        fixed:
+          str: 0
+          dex: 0
+          con: 0
+          int: 0
+          wis: 0
+          cha: 0
+        cap: 2
+        locked: []
+      value:
+        type: asi
+      level: 8
+      title: ''
+    - _id: nROeTbeO8vrGjqAp
+      type: AbilityScoreImprovement
+      configuration:
+        points: 2
+        fixed:
+          str: 0
+          dex: 0
+          con: 0
+          int: 0
+          wis: 0
+          cha: 0
+        cap: 2
+        locked: []
+      value:
+        type: asi
+      level: 12
+      title: ''
+    - _id: prZMkvcCNoLvF4yB
+      type: AbilityScoreImprovement
+      configuration:
+        points: 2
+        fixed:
+          str: 0
+          dex: 0
+          con: 0
+          int: 0
+          wis: 0
+          cha: 0
+        cap: 2
+        locked: []
+      value:
+        type: asi
+      level: 16
+      title: ''
+    - _id: puDaUsYrlks0z5gm
+      type: AbilityScoreImprovement
+      configuration:
+        points: 2
+        fixed:
+          str: 0
+          dex: 0
+          con: 0
+          int: 0
+          wis: 0
+          cha: 0
+        cap: 2
+        locked: []
+      value:
+        type: asi
+      level: 19
+      title: ''
+    - _id: ok09058sgbpt0w6b
+      type: Subclass
+      configuration: {}
+      value:
+        document: null
+        uuid: null
+      level: 3
+      title: Primal Path
+  spellcasting:
+    progression: none
+    ability: ''
+    preparation: {}
+  startingEquipment:
+    - type: OR
+      _id: ibzIV7v9EHcUb8TP
+      group: ''
+      sort: 100000
+      requiresProficiency: false
+    - type: linked
+      count: null
+      key: Compendium.dnd5e.items.Item.1Lxk6kmoRhG8qQ0u
+      _id: 6fTt5110T0AI6UGu
+      group: ibzIV7v9EHcUb8TP
+      sort: 400000
+      requiresProficiency: false
+    - type: weapon
+      count: null
+      key: martialM
+      _id: 4dE11X5bLs1OUNgg
+      group: ibzIV7v9EHcUb8TP
+      sort: 500000
+      requiresProficiency: false
+    - type: OR
+      _id: Qc9WbViMpWP8QWWY
+      group: ''
+      sort: 200000
+      requiresProficiency: false
+    - type: linked
+      count: 2
+      key: Compendium.dnd5e.items.Item.eO7Fbv5WBk5zvGOc
+      _id: YE3Asa2h2sLH52t6
+      group: Qc9WbViMpWP8QWWY
+      sort: 600000
+      requiresProficiency: false
+    - type: weapon
+      count: null
+      key: sim
+      _id: hFCffUR4KAtVWSxs
+      group: Qc9WbViMpWP8QWWY
+      sort: 700000
+      requiresProficiency: false
+    - type: AND
+      _id: UYICcIEggAxtVjw9
+      group: ''
+      sort: 300000
+      requiresProficiency: false
+    - type: linked
+      count: null
+      key: Compendium.dnd5e.items.Item.8KWz5DJbWUpNWniP
+      _id: tCQ3ARfynhsldy40
+      group: UYICcIEggAxtVjw9
+      sort: 800000
+      requiresProficiency: false
+    - type: linked
+      count: 4
+      key: Compendium.dnd5e.items.Item.DWLMnODrnHn8IbAG
+      _id: MzzYDxTlR3mkfPmC
+      group: UYICcIEggAxtVjw9
+      sort: 900000
+      requiresProficiency: false
+  wealth: 2d4 * 10
+  primaryAbility:
+    value: []
+    all: true
+  hd:
+    denomination: d12
+    spent: 0
+    additional: ''
+effects: []
+folder: ZTP0KiGOdRqUKVvZ
+flags: {}
+_stats:
+  coreVersion: '12.331'
+  systemId: dnd5e
+  systemVersion: 4.3.6
+  createdTime: 1742177033543
+  modifiedTime: 1742177033543
+  lastModifiedBy: qLd1xbi5aWizR4xO
+```
+
+[[List of Classes]]
+# Barbarian
+
+### Class Features
+
+As a barbarian, you gain the following class features.
+
+#### Hit Points
+
+**Hit Dice:** 1d12 per barbarian level
+
+**Hit Points at 1st Level:** 12 + your Constitution modifier
+
+**Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution modifier per barbarian level after 1st
+
+#### Proficiencies
+
+**Armor:** Light armor, medium armor, shields
+
+**Weapons:** Simple weapons, martial weapons
+
+**Tools:** None
+
+**Saving Throws:** Strength, Constitution
+
+**Skills:** Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival
+
+#### Equipment
+
+You start with the following equipment, in addition to the equipment granted by your background:
+
+- (*a*) a greataxe or (*b*) any martial melee weapon
+- (*a*) two handaxes or (*b*) any simple weapon
+- An explorer's pack and four javelins
+
+**Table- The Barbarian**
+
+| Level | Proficiency Bonus | Features                      | Rages     | Rage Damage |
+|-------|-------------------|-------------------------------|-----------|-------------|
+| 1st   | +2                | Rage, Unarmored Defense       | 2         | +2          |
+| 2nd   | +2                | Reckless Attack, Danger Sense | 2         | +2          |
+| 3rd   | +2                | Primal Path                   | 3         | +2          |
+| 4th   | +2                | Ability Score Improvement     | 3         | +2          |
+| 5th   | +3                | Extra Attack, Fast Movement   | 3         | +2          |
+| 6th   | +3                | Path feature                  | 4         | +2          |
+| 7th   | +3                | Feral Instinct                | 4         | +2          |
+| 8th   | +3                | Ability Score Improvement     | 4         | +2          |
+| 9th   | +4                | Brutal Critical (1 die)       | 4         | +3          |
+| 10th  | +4                | Path feature                  | 4         | +3          |
+| 11th  | +4                | Relentless                    | 4         | +3          |
+| 12th  | +4                | Ability Score Improvement     | 5         | +3          |
+| 13th  | +5                | Brutal Critical (2 dice)      | 5         | +3          |
+| 14th  | +5                | Path feature                  | 5         | +3          |
+| 15th  | +5                | Persistent Rage               | 5         | +3          |
+| 16th  | +5                | Ability Score Improvement     | 5         | +4          |
+| 17th  | +6                | Brutal Critical (3 dice)      | 6         | +4          |
+| 18th  | +6                | Indomitable Might             | 6         | +4          |
+| 19th  | +6                | Ability Score Improvement     | 6         | +4          |
+| 20th  | +6                | Primal Champion               | Unlimited | +4          |
+|       |                   |                               |           |             |
+
+### Rage
+
+In battle, you fight with primal ferocity. On your turn, you can enter a rage as a bonus action.
+
+While raging, you gain the following benefits if you aren't wearing heavy armor:
+
+- You have advantage on Strength checks and Strength saving throws.
+- When you make a melee weapon attack using Strength, you gain a bonus to the damage roll that increases as you gain levels as a barbarian, as shown in the Rage Damage column of the Barbarian table.
+- You have resistance to bludgeoning, piercing, and slashing damage.
+
+If you are able to cast spells, you can't cast them or concentrate on them while raging.
+
+Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
+
+Once you have raged the number of times shown for your barbarian level in the Rages column of the Barbarian table, you must finish a long rest before you can rage again.
+
+### Unarmored Defense
+
+While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Constitution modifier. You can use a shield and still gain this benefit.
+
+### Reckless Attack
+
+Starting at 2nd level, you can throw aside all concern for defense to attack with fierce desperation. When you make your first attack on your turn, you can decide to attack recklessly. Doing so gives you advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you have advantage until your next turn.
+
+### Danger Sense
+
+At 2nd level, you gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger.
+
+You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can't be blinded, deafened, or incapacitated.
+
+### Primal Path
+
+At 3rd level, you choose a path that shapes the nature of your rage. Choose the Path of the Berserker or the Path of the Totem Warrior, both detailed at the end of the class description. Your choice grants you features at 3rd level and again at 6th, 10th, and 14th levels.
+
+### Ability Score Improvement
+
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+### Extra Attack
+
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+### Fast Movement
+
+Starting at 5th level, your speed increases by 10 feet while you aren't wearing heavy armor.
+
+### Feral Instinct
+
+By 7th level, your instincts are so honed that you have advantage on initiative rolls.
+
+Additionally, if you are surprised at the beginning of combat and aren't incapacitated, you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.
+
+### Brutal Critical
+
+Beginning at 9th level, you can roll one additional weapon damage die when determining the extra damage for a critical hit with a melee attack.
+
+This increases to two additional dice at 13th level and three additional dice at 17th level.
+
+### Relentless Rage
+
+Starting at 11th level, your rage can keep you fighting despite grievous wounds. If you drop to 0 hit points while you're raging and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, you drop to 1 hit point instead.
+
+Each time you use this feature after the first, the DC increases by 5. When you finish a short or long rest, the DC resets to 10.
+
+### Persistent Rage
+
+Beginning at 15th level, your rage is so fierce that it ends early only if you fall unconscious or if you choose to end it.
+
+### Indomitable Might
+
+Beginning at 18th level, if your total for a Strength check is less than your Strength score, you can use that score in place of the total.
+
+### Primal Champion
+
+At 20th level, you embody the power of the wilds. Your Strength and Constitution scores increase by 4. Your maximum for those scores is now 24.
+
+## Barbarian Paths
+
+### Path of the Berserker
+
+For some barbarians, rage is a means to an end- that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker's rage, you thrill in the chaos of battle, heedless of your own health or well-being.
+
+#### Frenzy
+
+Starting when you choose this path at 3rd level, you can go into a frenzy when you rage. If you do so, for the duration of your rage you can make a single melee weapon attack as a bonus action on each of your turns after this one. When your rage ends, you suffer one level of exhaustion (as described in appendix A).
+
+#### Mindless Rage
+
+Beginning at 6th level, you can't be charmed or frightened while raging. If you are charmed or frightened when you enter your rage, the effect is suspended for the duration of the rage.
+
+#### Intimidating Presence
+
+Beginning at 10th level, you can use your action to frighten someone with your menacing presence. When you do so, choose one creature that you can see within 30 feet of you. If the creature can see or hear you, it must succeed on a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Charisma modifier) or be frightened of you until the end of your next turn. On subsequent turns, you can use your action to extend the duration of this effect on the frightened creature until the end of your next turn. This effect ends if the creature ends its turn out of line of sight or more than 60 feet away from you.
+
+If the creature succeeds on its saving throw, you can't use this feature on that creature again for 24 hours.
+
+#### Retaliation
+
+Starting at 14th level, when you take damage from a creature that is within 5 feet of you, you can use your reaction to make a melee weapon attack against that creature.
