@@ -27,3 +27,9 @@ For the duration, a mote of brilliant radiance shines in your hand. It sheds bri
 **Classes**: [Druid](compendium/classes/druid.md), [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

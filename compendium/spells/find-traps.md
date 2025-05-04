@@ -25,3 +25,9 @@ This spell merely reveals that a trap is present. You don't learn the location o
 **Classes**: [Cleric](compendium/classes/cleric.md), [Druid](compendium/classes/druid.md), [Ranger](compendium/classes/ranger.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

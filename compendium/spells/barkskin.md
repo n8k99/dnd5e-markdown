@@ -22,3 +22,9 @@ You touch a willing creature. Until the spell ends, the target's skin has a roug
 **Classes**: [Druid](compendium/classes/druid.md), [Ranger](compendium/classes/ranger.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

@@ -27,3 +27,9 @@ To discern that you are disguised, a creature can use its action to inspect your
 **Classes**: [Bard](compendium/classes/bard.md), [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

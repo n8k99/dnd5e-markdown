@@ -24,3 +24,9 @@ Up to three creatures of your choice that you can see within range must make Cha
 **Classes**: [Bard](compendium/classes/bard.md), [Cleric](compendium/classes/cleric.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

@@ -24,3 +24,9 @@ The berries lose their potency if they have not been consumed within 24 hours of
 **Classes**: [Druid](compendium/classes/druid.md), [Ranger](compendium/classes/ranger.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

@@ -23,3 +23,9 @@ For the duration, you hide a target that you touch from divination magic. The ta
 **Classes**: [Bard](compendium/classes/bard.md), [Ranger](compendium/classes/ranger.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

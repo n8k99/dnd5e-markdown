@@ -31,3 +31,9 @@ Similarly, this spell doesn't directly affect plant growth. The moved earth carr
 **Classes**: [Druid](compendium/classes/druid.md), [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

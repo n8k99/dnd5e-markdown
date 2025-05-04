@@ -23,3 +23,9 @@ Nothing can physically pass through the wall. It is immune to all damage and can
 **Classes**: [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

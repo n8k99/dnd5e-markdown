@@ -28,3 +28,9 @@ The spell's area can't overlap with the area of another forbiddance spell. If yo
 **Classes**: [Cleric](compendium/classes/cleric.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

@@ -24,3 +24,9 @@ When the sword appears, you make a melee spell attack against a target of your c
 **Classes**: [Bard](compendium/classes/bard.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

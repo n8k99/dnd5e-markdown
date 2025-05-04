@@ -26,3 +26,9 @@ This spell immediately ends if you cast it again before its duration ends.
 **Classes**: [Bard](compendium/classes/bard.md), [Druid](compendium/classes/druid.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

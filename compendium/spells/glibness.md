@@ -22,3 +22,9 @@ Until the spell ends, when you make a Charisma check, you can replace the number
 **Classes**: [Bard](compendium/classes/bard.md), [Warlock](compendium/classes/warlock.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

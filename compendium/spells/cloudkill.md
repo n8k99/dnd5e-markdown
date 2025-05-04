@@ -28,3 +28,9 @@ The fog moves 10 feet away from you at the start of each of your turns, rolling 
 **Classes**: [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

@@ -1,12 +1,15 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+  - json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/forest
-- monster/size/huge
-- monster/type/dragon
-aliases: ["Adult Green Dragon"]
+  - compendium/src/5e/mm
+  - monster/environment/forest
+  - monster/size/huge
+  - monster/type/dragon
+aliases:
+  - Adult Green Dragon
+dnd_link: "[[Adult Green Dragon (Chromatic)]]"
 ---
 # Adult Green Dragon
 *Source: SRD / Basic Rules*  

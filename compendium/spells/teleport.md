@@ -64,3 +64,9 @@ The spell's unpredictable magic results in a difficult journey. Each teleporting
 **Classes**: [Bard](compendium/classes/bard.md), [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

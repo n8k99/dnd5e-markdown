@@ -32,3 +32,9 @@ The target's gear melds into the new form. The creature can't activate, use, wie
 **Classes**: [Bard](compendium/classes/bard.md), [Druid](compendium/classes/druid.md), [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

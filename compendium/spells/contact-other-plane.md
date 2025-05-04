@@ -25,3 +25,9 @@ On a successful save, you can ask the entity up to five questions. You must ask 
 **Classes**: [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

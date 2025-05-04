@@ -28,3 +28,9 @@ A bound creature must follow your instructions to the best of its ability. You m
 **Classes**: [Bard](compendium/classes/bard.md), [Cleric](compendium/classes/cleric.md), [Druid](compendium/classes/druid.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

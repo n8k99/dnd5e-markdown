@@ -26,3 +26,9 @@ The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flyin
 **Classes**: [Druid](compendium/classes/druid.md), [Ranger](compendium/classes/ranger.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

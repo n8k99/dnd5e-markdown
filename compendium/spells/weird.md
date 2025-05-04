@@ -21,3 +21,9 @@ Drawing on the deepest fears of a group of creatures, you create illusory creatu
 **Classes**: [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

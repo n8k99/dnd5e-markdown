@@ -26,3 +26,9 @@ This spell's damage increases by `1d12` when you reach 5th level (`2d12`), 11th 
 **Classes**: [Druid](compendium/classes/druid.md), [Sorcerer](compendium/classes/sorcerer.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

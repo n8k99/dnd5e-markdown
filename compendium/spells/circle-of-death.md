@@ -25,3 +25,9 @@ A sphere of negative energy ripples out in a 60-foot-radius sphere from a point 
 **Classes**: [Sorcerer](compendium/classes/sorcerer.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

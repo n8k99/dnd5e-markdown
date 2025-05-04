@@ -27,3 +27,9 @@ The triggering circumstance can be as general or as detailed as you like, though
 **Classes**: [Bard](compendium/classes/bard.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

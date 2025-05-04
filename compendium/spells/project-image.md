@@ -28,3 +28,9 @@ Physical interaction with the image reveals it to be an illusion, because things
 **Classes**: [Bard](compendium/classes/bard.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

@@ -25,3 +25,9 @@ The information you learn is accurate but might be couched in figurative languag
 **Classes**: [Bard](compendium/classes/bard.md), [Cleric](compendium/classes/cleric.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

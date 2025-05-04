@@ -23,3 +23,9 @@ At any time after the clone matures, if the original creature dies, its soul tra
 **Classes**: [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

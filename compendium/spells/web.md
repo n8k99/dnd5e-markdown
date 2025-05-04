@@ -30,3 +30,9 @@ The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 
 **Classes**: [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

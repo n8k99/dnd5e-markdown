@@ -25,3 +25,9 @@ You can set a condition for the spell to end early. The condition can be anythin
 **Classes**: [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

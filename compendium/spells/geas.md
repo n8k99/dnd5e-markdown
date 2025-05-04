@@ -31,3 +31,9 @@ You can end the spell early by using an action to dismiss it. A [remove curse](c
 **Classes**: [Bard](compendium/classes/bard.md), [Cleric](compendium/classes/cleric.md), [Druid](compendium/classes/druid.md), [Paladin](compendium/classes/paladin.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

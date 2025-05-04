@@ -29,3 +29,9 @@ Creatures with [truesight](rules/senses.md#truesight) can see through the illusi
 **Classes**: [Bard](compendium/classes/bard.md), [Druid](compendium/classes/druid.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

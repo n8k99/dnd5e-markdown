@@ -27,3 +27,9 @@ This spell dispels any darkness in its area that was created by a spell.
 **Classes**: [Druid](compendium/classes/druid.md), [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

@@ -25,3 +25,9 @@ The target's severed body members (fingers, legs, tails, and so on), if any, are
 **Classes**: [Bard](compendium/classes/bard.md), [Cleric](compendium/classes/cleric.md), [Druid](compendium/classes/druid.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

@@ -29,3 +29,9 @@ One side of the wall, selected by you when you cast this spell, deals `5d8` fire
 **Classes**: [Druid](compendium/classes/druid.md), [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

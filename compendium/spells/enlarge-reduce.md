@@ -34,3 +34,9 @@ The target's size is halved in all dimensions, and its weight is reduced to one-
 **Classes**: [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

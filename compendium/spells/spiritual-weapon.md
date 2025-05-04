@@ -27,3 +27,9 @@ The weapon can take whatever form you choose. Clerics of deities who are associa
 **Classes**: [Cleric](compendium/classes/cleric.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

@@ -26,3 +26,9 @@ For the duration, the target has advantage on saving throws against being [poiso
 **Classes**: [Cleric](compendium/classes/cleric.md), [Druid](compendium/classes/druid.md), [Paladin](compendium/classes/paladin.md), [Ranger](compendium/classes/ranger.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

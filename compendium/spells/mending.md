@@ -27,3 +27,9 @@ This spell can physically repair a magic item or construct, but the spell can't 
 **Classes**: [Bard](compendium/classes/bard.md), [Cleric](compendium/classes/cleric.md), [Druid](compendium/classes/druid.md), [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

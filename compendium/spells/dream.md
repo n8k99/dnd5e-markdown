@@ -29,3 +29,9 @@ If you have a body part, lock of hair, clipping from a nail, or similar portion 
 **Classes**: [Bard](compendium/classes/bard.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

@@ -25,3 +25,9 @@ The contingent spell takes effect only on you, even if it can normally target ot
 **Classes**: [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

@@ -29,3 +29,9 @@ If any of this spell's area overlaps with an area of darkness created by a spell
 **Classes**: [Cleric](compendium/classes/cleric.md), [Druid](compendium/classes/druid.md), [Paladin](compendium/classes/paladin.md), [Ranger](compendium/classes/ranger.md), [Sorcerer](compendium/classes/sorcerer.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

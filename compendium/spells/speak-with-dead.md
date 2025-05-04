@@ -24,3 +24,9 @@ Until the spell ends, you can ask the corpse up to five questions. The corpse kn
 **Classes**: [Bard](compendium/classes/bard.md), [Cleric](compendium/classes/cleric.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

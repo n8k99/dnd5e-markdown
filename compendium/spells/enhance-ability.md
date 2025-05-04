@@ -54,3 +54,9 @@ When you cast this spell using a spell slot of 3rd level or higher, you can targ
 **Classes**: [Bard](compendium/classes/bard.md), [Cleric](compendium/classes/cleric.md), [Druid](compendium/classes/druid.md), [Sorcerer](compendium/classes/sorcerer.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

@@ -67,3 +67,9 @@ Affected creatures can communicate with any other creature in the area, even if 
 **Classes**: [Cleric](compendium/classes/cleric.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

@@ -25,3 +25,9 @@ If you instead touch a creature throughout the casting, you learn what spells, i
 **Classes**: [Bard](compendium/classes/bard.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

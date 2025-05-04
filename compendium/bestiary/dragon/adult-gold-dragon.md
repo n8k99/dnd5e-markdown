@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+  - json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/forest
-- monster/environment/grassland
-- monster/size/huge
-- monster/type/dragon
-aliases: ["Adult Gold Dragon"]
+  - compendium/src/5e/mm
+  - monster/environment/forest
+  - monster/environment/grassland
+  - monster/size/huge
+  - monster/type/dragon
+aliases:
+  - Adult Gold Dragon
+dnd_link: "[[Adult Gold Dragon (Metallic)]]"
 ---
 # Adult Gold Dragon
 *Source: SRD / Basic Rules*  

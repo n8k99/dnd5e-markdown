@@ -23,3 +23,9 @@ This spell allows you to move at an incredible pace. When you cast this spell, a
 **Classes**: [Sorcerer](compendium/classes/sorcerer.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

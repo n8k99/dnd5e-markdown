@@ -47,3 +47,9 @@ If you turn a creature into an object, it transforms along with whatever it is w
 **Classes**: [Bard](compendium/classes/bard.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

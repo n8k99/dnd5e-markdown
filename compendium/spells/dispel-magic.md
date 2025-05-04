@@ -29,3 +29,9 @@ Choose one creature, object, or magical effect within range. Any spell of 3rd le
 **Classes**: [Bard](compendium/classes/bard.md), [Cleric](compendium/classes/cleric.md), [Druid](compendium/classes/druid.md), [Paladin](compendium/classes/paladin.md), [Sorcerer](compendium/classes/sorcerer.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

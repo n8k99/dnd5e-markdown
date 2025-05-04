@@ -27,3 +27,9 @@ Minor physical damage to the stone doesn't harm you, but its partial destruction
 **Classes**: [Cleric](compendium/classes/cleric.md), [Druid](compendium/classes/druid.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

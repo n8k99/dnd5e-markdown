@@ -25,3 +25,9 @@ When you cast this spell, you can designate any number of creatures you can see 
 **Classes**: [Cleric](compendium/classes/cleric.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

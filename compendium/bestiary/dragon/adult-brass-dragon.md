@@ -1,12 +1,15 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+  - json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/desert
-- monster/size/huge
-- monster/type/dragon
-aliases: ["Adult Brass Dragon"]
+  - compendium/src/5e/mm
+  - monster/environment/desert
+  - monster/size/huge
+  - monster/type/dragon
+aliases:
+  - Adult Brass Dragon
+dnd_link: "[[Adult Brass Dragon (Metallic)]]"
 ---
 # Adult Brass Dragon
 *Source: SRD / Basic Rules*  

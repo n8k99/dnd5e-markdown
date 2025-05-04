@@ -40,3 +40,9 @@ A creature that successfully saves against this effect is immune to it for 1 min
 **Classes**: [Druid](compendium/classes/druid.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

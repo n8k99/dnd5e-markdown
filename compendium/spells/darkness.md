@@ -27,3 +27,9 @@ If any of this spell's area overlaps with an area of light created by a spell of
 **Classes**: [Sorcerer](compendium/classes/sorcerer.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

@@ -27,3 +27,9 @@ The flaming blade sheds bright light in a 10-foot radius and dim light for an ad
 **Classes**: [Druid](compendium/classes/druid.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

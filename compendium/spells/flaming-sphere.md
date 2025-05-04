@@ -28,3 +28,9 @@ When you move the sphere, you can direct it over barriers up to 5 feet tall and 
 **Classes**: [Druid](compendium/classes/druid.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

@@ -29,3 +29,9 @@ A creature can use its action to inspect a target and make an Intelligence ([Inv
 **Classes**: [Bard](compendium/classes/bard.md), [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

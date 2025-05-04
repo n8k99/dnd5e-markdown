@@ -33,3 +33,9 @@ For example, you could determine the location of powerful undead in the area, th
 **Classes**: [Druid](compendium/classes/druid.md), [Ranger](compendium/classes/ranger.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

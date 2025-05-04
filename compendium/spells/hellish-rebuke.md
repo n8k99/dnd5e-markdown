@@ -23,3 +23,9 @@ You point your finger, and the creature that damaged you is momentarily surround
 **Classes**: [Warlock](compendium/classes/warlock.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

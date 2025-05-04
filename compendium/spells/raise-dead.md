@@ -29,3 +29,9 @@ Coming back from the dead is an ordeal. The target takes a −4 penalty to all a
 **Classes**: [Bard](compendium/classes/bard.md), [Cleric](compendium/classes/cleric.md), [Paladin](compendium/classes/paladin.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

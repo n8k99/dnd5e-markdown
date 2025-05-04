@@ -21,3 +21,9 @@ aliases: ["Otiluke's Freezing Sphere"]
 **Classes**: [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

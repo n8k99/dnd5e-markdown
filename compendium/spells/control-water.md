@@ -49,3 +49,9 @@ The first time each turn that an object enters the vortex, the object takes `2d8
 **Classes**: [Cleric](compendium/classes/cleric.md), [Druid](compendium/classes/druid.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

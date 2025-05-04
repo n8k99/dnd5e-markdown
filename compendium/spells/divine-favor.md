@@ -21,3 +21,9 @@ Your prayer empowers you with divine radiance. Until the spell ends, your weapon
 **Classes**: [Paladin](compendium/classes/paladin.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

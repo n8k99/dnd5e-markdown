@@ -26,3 +26,9 @@ Make a ranged spell attack for each ray. On a hit, the target takes `2d6` fire d
 **Classes**: [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

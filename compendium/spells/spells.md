@@ -323,3 +323,10 @@ cssclasses: json5e-note
 - [Wish](wish.md)
 - [Word of Recall](word-of-recall.md)
 - [Zone of Truth](zone-of-truth.md)
+
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

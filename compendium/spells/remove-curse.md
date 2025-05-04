@@ -24,3 +24,9 @@ At your touch, all curses affecting one creature or object end. If the object is
 **Classes**: [Cleric](compendium/classes/cleric.md), [Paladin](compendium/classes/paladin.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

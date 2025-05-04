@@ -50,3 +50,9 @@ When you cast this spell using a spell slot of 2nd level or higher, you can affe
 **Classes**: [Cleric](compendium/classes/cleric.md), [Paladin](compendium/classes/paladin.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

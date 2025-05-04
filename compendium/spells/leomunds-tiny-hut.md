@@ -23,3 +23,9 @@ aliases: ["Leomund's Tiny Hut"]
 **Classes**: [Bard](compendium/classes/bard.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

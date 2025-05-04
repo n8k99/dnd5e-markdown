@@ -29,3 +29,9 @@ Undead and creatures immune to being [charmed](rules/conditions.md#charmed) aren
 **Classes**: [Bard](compendium/classes/bard.md), [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

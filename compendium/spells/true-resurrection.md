@@ -26,3 +26,9 @@ The spell can even provide a new body if the original no longer exists, in which
 **Classes**: [Cleric](compendium/classes/cleric.md), [Druid](compendium/classes/druid.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

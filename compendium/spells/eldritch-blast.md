@@ -23,3 +23,9 @@ The spell creates more than one beam when you reach higher levels: two beams at 
 **Classes**: [Warlock](compendium/classes/warlock.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

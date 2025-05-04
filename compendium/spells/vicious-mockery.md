@@ -23,3 +23,9 @@ This spell's damage increases by `1d4` when you reach 5th level (`2d4`), 11th le
 **Classes**: [Bard](compendium/classes/bard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

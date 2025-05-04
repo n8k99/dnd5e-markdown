@@ -24,3 +24,9 @@ Your spell bolsters your allies with toughness and resolve. Choose up to three c
 **Classes**: [Cleric](compendium/classes/cleric.md), [Paladin](compendium/classes/paladin.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

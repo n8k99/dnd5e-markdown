@@ -1,13 +1,16 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+  - json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/hill
-- monster/environment/mountain
-- monster/size/huge
-- monster/type/dragon
-aliases: ["Adult Red Dragon"]
+  - compendium/src/5e/mm
+  - monster/environment/hill
+  - monster/environment/mountain
+  - monster/size/huge
+  - monster/type/dragon
+aliases:
+  - Adult Red Dragon
+dnd_link: "[[Adult Red Dragon (Chromatic)]]"
 ---
 # Adult Red Dragon
 *Source: SRD / Basic Rules*  

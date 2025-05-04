@@ -27,3 +27,9 @@ An audible alarm produces the sound of a hand bell for 10 seconds within 60 feet
 **Classes**: [Ranger](compendium/classes/ranger.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

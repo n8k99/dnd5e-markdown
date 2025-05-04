@@ -24,3 +24,9 @@ Choose a creature that you can see within range. A surge of positive energy wash
 **Classes**: [Cleric](compendium/classes/cleric.md), [Druid](compendium/classes/druid.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

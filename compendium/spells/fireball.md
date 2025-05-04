@@ -26,3 +26,9 @@ The fire spreads around corners. It ignites flammable objects in the area that a
 **Classes**: [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

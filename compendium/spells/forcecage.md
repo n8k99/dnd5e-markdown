@@ -33,3 +33,9 @@ This spell can't be dispelled by [dispel magic](compendium/spells/dispel-magic.m
 **Classes**: [Bard](compendium/classes/bard.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

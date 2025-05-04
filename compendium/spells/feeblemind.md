@@ -30,3 +30,9 @@ The spell can also be ended by [greater restoration](compendium/spells/greater-r
 **Classes**: [Bard](compendium/classes/bard.md), [Druid](compendium/classes/druid.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

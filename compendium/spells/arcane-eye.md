@@ -25,3 +25,9 @@ As an action, you can move the eye up to 30 feet in any direction. There is no l
 **Classes**: [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

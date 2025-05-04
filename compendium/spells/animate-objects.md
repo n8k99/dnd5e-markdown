@@ -42,3 +42,9 @@ If you command an object to attack, it can make a single melee attack against a 
 **Classes**: [Bard](compendium/classes/bard.md), [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

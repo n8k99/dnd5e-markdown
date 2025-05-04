@@ -1,12 +1,15 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+  - json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/hill
-- monster/size/huge
-- monster/type/dragon
-aliases: ["Adult Copper Dragon"]
+  - compendium/src/5e/mm
+  - monster/environment/hill
+  - monster/size/huge
+  - monster/type/dragon
+aliases:
+  - Adult Copper Dragon
+dnd_link: "[[Adult Copper Dragon (Metallic)]]"
 ---
 # Adult Copper Dragon
 *Source: SRD / Basic Rules*  

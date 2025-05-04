@@ -24,3 +24,9 @@ Any attack roll against an affected creature or object has advantage if the atta
 **Classes**: [Bard](compendium/classes/bard.md), [Druid](compendium/classes/druid.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

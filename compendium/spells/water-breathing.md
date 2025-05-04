@@ -25,3 +25,9 @@ This spell grants up to ten willing creatures you can see within range the abili
 **Classes**: [Druid](compendium/classes/druid.md), [Ranger](compendium/classes/ranger.md), [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

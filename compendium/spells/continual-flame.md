@@ -22,3 +22,9 @@ A flame, equivalent in brightness to a torch, springs forth from an object that 
 **Classes**: [Cleric](compendium/classes/cleric.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

@@ -29,3 +29,9 @@ When you cast this spell, you can speak the name of a specific creature (a pseud
 **Classes**: [Cleric](compendium/classes/cleric.md), [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

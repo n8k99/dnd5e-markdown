@@ -26,3 +26,9 @@ If a creature is holding or wearing the object and takes the damage from it, the
 **Classes**: [Bard](compendium/classes/bard.md), [Druid](compendium/classes/druid.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

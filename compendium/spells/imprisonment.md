@@ -64,3 +64,9 @@ You can use a particular special component to create only one prison at a time. 
 **Classes**: [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

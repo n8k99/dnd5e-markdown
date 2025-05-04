@@ -25,3 +25,9 @@ This spell lets you convince a beast that you mean it no harm. Choose a beast th
 **Classes**: [Bard](compendium/classes/bard.md), [Druid](compendium/classes/druid.md), [Ranger](compendium/classes/ranger.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

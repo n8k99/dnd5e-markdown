@@ -41,3 +41,9 @@ The tremor deals 50 bludgeoning damage to any structure in contact with the grou
 **Classes**: [Cleric](compendium/classes/cleric.md), [Druid](compendium/classes/druid.md), [Sorcerer](compendium/classes/sorcerer.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

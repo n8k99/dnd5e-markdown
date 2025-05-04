@@ -24,3 +24,9 @@ You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic
 **Classes**: [Paladin](compendium/classes/paladin.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

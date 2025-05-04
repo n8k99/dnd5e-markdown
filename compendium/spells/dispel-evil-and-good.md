@@ -34,3 +34,9 @@ As your action, make a melee spell attack against a celestial, an elemental, a f
 **Classes**: [Cleric](compendium/classes/cleric.md), [Paladin](compendium/classes/paladin.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

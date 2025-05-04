@@ -23,3 +23,9 @@ Any creature hostile to you that moves to a space within 10 feet of the guardian
 **Classes**: [Cleric](compendium/classes/cleric.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

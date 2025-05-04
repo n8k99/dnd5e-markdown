@@ -26,3 +26,9 @@ The protection grants several benefits. Creatures of those types have disadvanta
 **Classes**: [Cleric](compendium/classes/cleric.md), [Paladin](compendium/classes/paladin.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

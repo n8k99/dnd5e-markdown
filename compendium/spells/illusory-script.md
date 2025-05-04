@@ -30,3 +30,9 @@ A creature with [truesight](rules/senses.md#truesight) can read the hidden messa
 **Classes**: [Bard](compendium/classes/bard.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

@@ -23,3 +23,9 @@ The next time you hit a creature with a weapon attack before this spell ends, th
 **Classes**: [Paladin](compendium/classes/paladin.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

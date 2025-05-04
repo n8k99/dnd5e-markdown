@@ -23,3 +23,9 @@ When the grease appears, each creature standing in its area must succeed on a De
 **Classes**: [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

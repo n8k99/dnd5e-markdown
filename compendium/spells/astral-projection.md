@@ -34,3 +34,9 @@ If you are returned to your body prematurely, your companions remain in their as
 **Classes**: [Cleric](compendium/classes/cleric.md), [Monk](compendium/classes/monk.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

@@ -26,3 +26,9 @@ The tactile characteristics of the terrain are unchanged, so creatures entering 
 **Classes**: [Bard](compendium/classes/bard.md), [Druid](compendium/classes/druid.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

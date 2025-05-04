@@ -56,3 +56,9 @@ Spells and magical effects such as [dispel magic](compendium/spells/dispel-magic
 **Classes**: [Cleric](compendium/classes/cleric.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

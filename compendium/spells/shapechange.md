@@ -32,3 +32,9 @@ During this spell's duration, you can use your action to assume a different form
 **Classes**: [Druid](compendium/classes/druid.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

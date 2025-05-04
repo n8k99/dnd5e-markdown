@@ -26,3 +26,9 @@ You touch a creature. The target's speed increases by 10 feet until the spell en
 **Classes**: [Bard](compendium/classes/bard.md), [Druid](compendium/classes/druid.md), [Ranger](compendium/classes/ranger.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

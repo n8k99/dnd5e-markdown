@@ -28,3 +28,9 @@ If you command the servant to perform a task that would move it more than 60 fee
 **Classes**: [Bard](compendium/classes/bard.md), [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

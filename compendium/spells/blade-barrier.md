@@ -23,3 +23,9 @@ When a creature enters the wall's area for the first time on a turn or starts it
 **Classes**: [Cleric](compendium/classes/cleric.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

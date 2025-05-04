@@ -24,3 +24,9 @@ Each time you cast this spell, you can create a new demiplane, or have the shado
 **Classes**: [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

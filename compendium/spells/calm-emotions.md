@@ -26,3 +26,9 @@ Alternatively, you can make a target indifferent about creatures of your choice 
 **Classes**: [Bard](compendium/classes/bard.md), [Cleric](compendium/classes/cleric.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

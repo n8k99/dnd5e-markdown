@@ -23,3 +23,9 @@ You must designate a sanctuary by casting this spell within a location, such as 
 **Classes**: [Cleric](compendium/classes/cleric.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

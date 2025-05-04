@@ -1,12 +1,15 @@
 ---
 obsidianUIMode: preview
-cssclasses: json5e-monster
+cssclasses:
+  - json5e-monster
 tags:
-- compendium/src/5e/mm
-- monster/environment/arctic
-- monster/size/huge
-- monster/type/dragon
-aliases: ["Adult White Dragon"]
+  - compendium/src/5e/mm
+  - monster/environment/arctic
+  - monster/size/huge
+  - monster/type/dragon
+aliases:
+  - Adult White Dragon
+dnd_link: "[[Adult White Dragon (Chromatic)]]"
 ---
 # Adult White Dragon
 *Source: SRD / Basic Rules*  

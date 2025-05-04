@@ -29,3 +29,9 @@ You can't have more than one steed bonded by this spell at a time. As an action,
 **Classes**: [Paladin](compendium/classes/paladin.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

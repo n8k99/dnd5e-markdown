@@ -21,3 +21,9 @@ This spell bestows hope and vitality. Choose any number of creatures within rang
 **Classes**: [Cleric](compendium/classes/cleric.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

@@ -21,3 +21,9 @@ You unleash a virulent disease on a creature that you can see within range. The 
 **Classes**: [Cleric](compendium/classes/cleric.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

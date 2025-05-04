@@ -36,3 +36,9 @@ When you cast this spell using a spell slot of 2nd level or higher, you create o
 **Classes**: [Cleric](compendium/classes/cleric.md), [Druid](compendium/classes/druid.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

@@ -24,3 +24,9 @@ A creature that partakes of the feast gains several benefits. The creature is cu
 **Classes**: [Cleric](compendium/classes/cleric.md), [Druid](compendium/classes/druid.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

@@ -24,3 +24,9 @@ Bolstering yourself with a necromantic facsimile of life, you gain `1d4 + 4` tem
 **Classes**: [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

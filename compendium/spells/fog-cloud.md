@@ -26,3 +26,9 @@ You create a 20-foot-radius sphere of fog centered on a point within range. The 
 **Classes**: [Druid](compendium/classes/druid.md), [Ranger](compendium/classes/ranger.md), [Sorcerer](compendium/classes/sorcerer.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

@@ -32,3 +32,9 @@ A [remove curse](compendium/spells/remove-curse.md) or [greater restoration](com
 **Classes**: [Bard](compendium/classes/bard.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

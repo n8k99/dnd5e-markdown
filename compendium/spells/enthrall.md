@@ -22,3 +22,9 @@ You weave a distracting string of words, causing creatures of your choice that y
 **Classes**: [Bard](compendium/classes/bard.md), [Warlock](compendium/classes/warlock.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

@@ -24,3 +24,9 @@ At the end of each of the target's turns, it can make a Constitution saving thro
 **Classes**: [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

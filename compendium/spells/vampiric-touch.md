@@ -24,3 +24,9 @@ The touch of your shadow-wreathed hand can siphon life force from others to heal
 **Classes**: [Warlock](compendium/classes/warlock.md), [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

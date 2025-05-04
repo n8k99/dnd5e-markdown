@@ -30,3 +30,9 @@ The DM has the fey creature's statistics.
 **Classes**: [Druid](compendium/classes/druid.md), [Warlock](compendium/classes/warlock.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

@@ -24,3 +24,9 @@ The awakened beast or plant is [charmed](rules/conditions.md#charmed) by you for
 **Classes**: [Bard](compendium/classes/bard.md), [Druid](compendium/classes/druid.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

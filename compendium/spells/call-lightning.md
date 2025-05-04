@@ -27,3 +27,9 @@ If you are outdoors in stormy conditions when you cast this spell, the spell giv
 **Classes**: [Druid](compendium/classes/druid.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

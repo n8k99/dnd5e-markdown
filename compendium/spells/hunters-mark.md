@@ -23,3 +23,9 @@ You choose a creature you can see within range and mystically mark it as your qu
 **Classes**: [Ranger](compendium/classes/ranger.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

@@ -27,3 +27,9 @@ The wall is an object that can be damaged and thus breached. It has AC 12 and 30
 **Classes**: [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

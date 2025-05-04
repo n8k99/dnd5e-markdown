@@ -25,3 +25,9 @@ Creatures or magic items can't be created or transmuted by this spell. You also 
 **Classes**: [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

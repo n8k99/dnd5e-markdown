@@ -25,3 +25,9 @@ The fire damages objects in the area and ignites flammable objects that aren't b
 **Classes**: [Cleric](compendium/classes/cleric.md), [Druid](compendium/classes/druid.md), [Sorcerer](compendium/classes/sorcerer.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

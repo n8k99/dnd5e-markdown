@@ -27,3 +27,9 @@ Anything inside the extradimensional space drops out when the spell ends.
 **Classes**: [Wizard](compendium/classes/wizard.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

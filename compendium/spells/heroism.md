@@ -24,3 +24,9 @@ A willing creature you touch is imbued with bravery. Until the spell ends, the c
 **Classes**: [Bard](compendium/classes/bard.md), [Paladin](compendium/classes/paladin.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*

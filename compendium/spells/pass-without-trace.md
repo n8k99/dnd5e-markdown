@@ -22,3 +22,9 @@ A veil of shadows and silence radiates from you, masking you and your companions
 **Classes**: [Druid](compendium/classes/druid.md), [Ranger](compendium/classes/ranger.md)
 
 *Source: SRD / Basic Rules*
+
+## Casting Classes
+- *(no classes found)*
+
+## Other Spellbooks
+- *(not found)*
